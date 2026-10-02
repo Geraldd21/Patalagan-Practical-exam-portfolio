@@ -1,0 +1,7 @@
+1. What is backend development?
+Backend development focuses on everything that happens behind the scenes of a website or app. 
+2. Give 2 examples of backend frameworks.
+Node.js
+Express.js
+3.What is an API?
+An API enables communication between multiple software applications.
