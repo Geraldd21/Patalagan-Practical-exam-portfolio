@@ -1,0 +1,1 @@
+Hello there, I'm Gerald Patalagan this file is about pushing my project to my GitHub Respository
